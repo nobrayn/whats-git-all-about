@@ -8,6 +8,11 @@ html { box-sizing: border-box;}
 
 body {
     font-size: 1.1em;
+    background-color: darkgrey;
+}
+
+ul li {
+    list-style: none;
 }
 
 .wrapper {
