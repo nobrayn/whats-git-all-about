@@ -9,3 +9,8 @@ html { box-sizing: border-box;}
 body {
     font-size: 1.1em;
 }
+
+li {
+    display: flex;
+    flex-direction: row;
+}
